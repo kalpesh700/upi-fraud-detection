@@ -1,0 +1,11 @@
+node_modules
+# Ignore environment files
+.env
+
+# Ignore virtual environment directories
+.venv/
+backend/venv/
+
+
+
+.codegpt
